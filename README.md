@@ -1,4 +1,5 @@
-# beep
+# alinky
+By Morris Lee
 
 Creates a class named <i>Course</i> that contains a string data field named <i>courseID</i> and an int data
 field named <i>capacity</i> that follows the guidelines:
