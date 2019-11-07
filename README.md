@@ -1,5 +1,5 @@
 # beep
-Implements an Array List and Linked List, with functions, for class Course
+<b>Implements an Array List and Linked List, with functions, for class Course</b>
 
 Creates a class named Course that contains a string data field named courseID and an int data
 field named capacity.
